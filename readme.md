@@ -58,6 +58,11 @@ if os.path.exists(requirements_txt):
     print(f"Installed dependencies for {service_name}")
 ```
 
+# 管理页面
+
+地址: `http://ip:9001`
+![](docs/attachments/image.png)
+
 # 后续计划
 
 - [x] 自动安装依赖
