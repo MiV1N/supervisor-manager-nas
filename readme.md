@@ -7,6 +7,8 @@
 
 # 使用介绍
 
+镜像名称:miv1n/supervisor-manager:0.0.1
+
 在example中有使用镜像的示例(所有操作都可以在群晖的UI中处理)
 1. 将python工程放入services/<工程名>/目录下
 2. 入口文件命名为main.py
@@ -61,6 +63,7 @@ if os.path.exists(requirements_txt):
 # 管理页面
 
 地址: `http://ip:9001`
+
 ![](docs/attachments/image.png)
 
 # 后续计划
