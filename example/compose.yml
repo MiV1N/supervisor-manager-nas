@@ -1,0 +1,16 @@
+version: '3.8'
+
+services:
+  supervisor_manager:
+    image: supervisor-manager:0.0.1
+    container_name: supervisor_manager
+    ports:
+      - "5000:5000"
+      - "8080:8080"
+      - "9001:9001"
+    volumes:
+      - ./services:/opt/services
+      - ./supervisor/configs:/etc/supervisor/conf.d
+      - ./webui/static:/app/webui/static
+      - ./log/supervisord.log:/var/log/supervisord.log
+    restart: always

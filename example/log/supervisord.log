@@ -1,0 +1,129 @@
+2025-04-19 03:42:41,393 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-04-19 03:42:41,395 INFO RPC interface 'supervisor' initialized
+2025-04-19 03:42:41,395 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2025-04-19 03:42:41,396 INFO daemonizing the supervisord process
+2025-04-19 03:42:42,045 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-04-19 03:42:42,349 INFO RPC interface 'supervisor' initialized
+2025-04-19 03:42:42,349 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2025-04-19 03:42:42,973 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-04-19 03:42:43,276 INFO RPC interface 'supervisor' initialized
+2025-04-19 03:42:43,276 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2025-04-19 03:42:43,278 INFO daemonizing the supervisord process
+2025-04-19 03:42:44,098 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-04-19 03:42:44,401 INFO RPC interface 'supervisor' initialized
+2025-04-19 03:42:44,401 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2025-04-19 03:47:40,928 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-04-19 03:47:40,930 INFO RPC interface 'supervisor' initialized
+2025-04-19 03:47:40,930 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2025-04-19 03:47:40,931 INFO daemonizing the supervisord process
+2025-04-19 03:47:41,578 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-04-19 03:47:41,883 INFO RPC interface 'supervisor' initialized
+2025-04-19 03:47:41,883 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2025-04-19 03:47:41,885 INFO daemonizing the supervisord process
+2025-04-19 03:47:42,553 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-04-19 03:47:42,857 INFO RPC interface 'supervisor' initialized
+2025-04-19 03:47:42,857 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2025-04-19 03:47:42,859 INFO daemonizing the supervisord process
+2025-04-19 03:47:43,662 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-04-19 03:47:43,966 INFO RPC interface 'supervisor' initialized
+2025-04-19 03:47:43,966 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2025-04-19 03:47:43,968 INFO daemonizing the supervisord process
+2025-04-19 03:47:45,171 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-04-19 03:47:45,474 INFO RPC interface 'supervisor' initialized
+2025-04-19 03:47:45,474 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2025-04-19 03:47:45,476 INFO daemonizing the supervisord process
+2025-04-19 03:53:24,438 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-04-19 03:53:24,440 INFO RPC interface 'supervisor' initialized
+2025-04-19 03:53:24,440 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2025-04-19 03:53:24,441 INFO daemonizing the supervisord process
+2025-04-19 03:53:24,442 INFO supervisord started with pid 9
+2025-04-19 03:53:25,135 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-04-19 03:53:25,438 INFO RPC interface 'supervisor' initialized
+2025-04-19 03:53:25,438 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2025-04-19 03:53:25,440 INFO daemonizing the supervisord process
+2025-04-19 03:53:26,067 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-04-19 03:53:26,371 INFO RPC interface 'supervisor' initialized
+2025-04-19 03:53:26,371 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2025-04-19 03:53:26,373 INFO daemonizing the supervisord process
+2025-04-19 03:53:27,185 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-04-19 03:53:27,489 INFO RPC interface 'supervisor' initialized
+2025-04-19 03:53:27,489 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2025-04-19 03:53:27,491 INFO daemonizing the supervisord process
+2025-04-19 03:53:28,704 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-04-19 03:53:29,008 INFO RPC interface 'supervisor' initialized
+2025-04-19 03:53:29,008 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2025-04-19 03:53:29,010 INFO daemonizing the supervisord process
+2025-04-19 03:53:31,047 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-04-19 03:53:31,351 INFO RPC interface 'supervisor' initialized
+2025-04-19 03:53:31,351 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2025-04-19 03:53:31,353 INFO daemonizing the supervisord process
+2025-04-19 03:53:34,986 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-04-19 03:53:35,290 INFO RPC interface 'supervisor' initialized
+2025-04-19 03:53:35,290 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2025-04-19 03:53:35,293 INFO daemonizing the supervisord process
+2025-04-19 03:53:42,104 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-04-19 03:53:42,408 INFO RPC interface 'supervisor' initialized
+2025-04-19 03:53:42,408 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2025-04-19 03:53:42,411 INFO daemonizing the supervisord process
+2025-04-19 03:55:20,494 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-04-19 03:55:20,496 INFO RPC interface 'supervisor' initialized
+2025-04-19 03:55:20,496 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2025-04-19 03:55:20,496 INFO supervisord started with pid 8
+2025-04-19 04:01:36,137 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-04-19 04:01:36,137 INFO Included extra file "/etc/supervisor/conf.d/test.ini" during parsing
+2025-04-19 04:01:36,139 INFO RPC interface 'supervisor' initialized
+2025-04-19 04:01:36,139 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2025-04-19 04:01:36,139 INFO supervisord started with pid 8
+2025-04-19 04:01:37,145 INFO spawned: 'test' with pid 9
+2025-04-19 04:01:38,147 INFO success: test entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-19 04:02:10,536 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-04-19 04:02:10,536 INFO Included extra file "/etc/supervisor/conf.d/test.ini" during parsing
+2025-04-19 04:02:10,538 INFO RPC interface 'supervisor' initialized
+2025-04-19 04:02:10,538 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2025-04-19 04:02:10,539 INFO daemonizing the supervisord process
+2025-04-19 04:02:11,208 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-04-19 04:02:11,208 INFO Included extra file "/etc/supervisor/conf.d/test.ini" during parsing
+2025-04-19 04:02:11,512 INFO RPC interface 'supervisor' initialized
+2025-04-19 04:02:11,512 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2025-04-19 04:02:11,514 INFO daemonizing the supervisord process
+2025-04-19 04:02:12,166 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-04-19 04:02:12,166 INFO Included extra file "/etc/supervisor/conf.d/test.ini" during parsing
+2025-04-19 04:02:12,470 INFO RPC interface 'supervisor' initialized
+2025-04-19 04:02:12,470 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2025-04-19 04:02:12,472 INFO daemonizing the supervisord process
+2025-04-19 04:02:13,277 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-04-19 04:02:13,277 INFO Included extra file "/etc/supervisor/conf.d/test.ini" during parsing
+2025-04-19 04:02:13,582 INFO RPC interface 'supervisor' initialized
+2025-04-19 04:02:13,582 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2025-04-19 04:02:13,583 INFO daemonizing the supervisord process
+2025-04-19 04:02:14,821 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-04-19 04:02:14,822 INFO Included extra file "/etc/supervisor/conf.d/test.ini" during parsing
+2025-04-19 04:02:15,126 INFO RPC interface 'supervisor' initialized
+2025-04-19 04:02:15,126 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2025-04-19 04:02:15,127 INFO daemonizing the supervisord process
+2025-04-19 04:02:17,156 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-04-19 04:02:17,156 INFO Included extra file "/etc/supervisor/conf.d/test.ini" during parsing
+2025-04-19 04:02:17,461 INFO RPC interface 'supervisor' initialized
+2025-04-19 04:02:17,461 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2025-04-19 04:02:17,462 INFO daemonizing the supervisord process
+2025-04-19 04:02:21,067 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-04-19 04:02:21,067 INFO Included extra file "/etc/supervisor/conf.d/test.ini" during parsing
+2025-04-19 04:02:21,371 INFO RPC interface 'supervisor' initialized
+2025-04-19 04:02:21,371 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2025-04-19 04:02:21,372 INFO daemonizing the supervisord process
+2025-04-19 04:02:48,126 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-04-19 04:02:48,126 INFO Included extra file "/etc/supervisor/conf.d/test.ini" during parsing
+2025-04-19 04:02:48,128 INFO RPC interface 'supervisor' initialized
+2025-04-19 04:02:48,128 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2025-04-19 04:02:48,128 INFO supervisord started with pid 8
+2025-04-19 04:02:49,132 INFO spawned: 'test' with pid 9
+2025-04-19 04:02:50,134 INFO success: test entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2025-04-19 04:06:29,516 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2025-04-19 04:06:29,516 INFO Included extra file "/etc/supervisor/conf.d/test.ini" during parsing
+2025-04-19 04:06:29,520 INFO RPC interface 'supervisor' initialized
+2025-04-19 04:06:29,520 CRIT Server 'inet_http_server' running without any HTTP authentication checking
+2025-04-19 04:06:29,520 INFO RPC interface 'supervisor' initialized
+2025-04-19 04:06:29,520 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2025-04-19 04:06:29,521 INFO supervisord started with pid 8
+2025-04-19 04:06:30,524 INFO spawned: 'test' with pid 9
+2025-04-19 04:06:31,526 INFO success: test entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
