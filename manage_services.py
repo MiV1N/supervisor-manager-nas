@@ -1,5 +1,22 @@
 import os
 import sys
+from pathlib import Path
+
+def clean_orphaned_configs(services_dir, conf_dir):
+    """清理那些服务目录已不存在但配置文件仍然存在的配置"""
+    services_path = Path(services_dir)
+    conf_path = Path(conf_dir)
+    
+    # 获取所有现有的服务目录名称
+    existing_services = {d.name for d in services_path.iterdir() if d.is_dir()}
+    
+    # 获取并处理所有.ini配置文件
+    for conf_file in conf_path.glob('*.ini'):
+        service_name = conf_file.stem  # 获取不带扩展名的文件名
+        if service_name not in existing_services:
+            conf_file.unlink()  # 删除文件
+            print(f"Removed orphaned config file: {conf_file.name}")
+
 def generate_supervisor_conf(services_dir, conf_dir):
     for service_name in os.listdir(services_dir):
         service_path = os.path.join(services_dir, service_name)
@@ -42,4 +59,5 @@ if __name__ == "__main__":
         sys.exit(1)
     services_directory = sys.argv[1]
     supervisor_conf_directory = sys.argv[2]
+    clean_orphaned_configs(services_directory, supervisor_conf_directory)
     generate_supervisor_conf(services_directory, supervisor_conf_directory)
