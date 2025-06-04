@@ -60,6 +60,26 @@ if os.path.exists(requirements_txt):
     print(f"Installed dependencies for {service_name}")
 ```
 
+# 部署服务
+
+```yaml
+version: '3.8'
+
+services:
+  supervisor_manager:
+    image: miv1n/supervisor-manager:0.0.1
+    container_name: supervisor_manager
+    ports:
+      - "8080:8080"
+      - "9001:9001"
+    volumes:
+      - ./services:/opt/services
+      - ./supervisor/configs:/etc/supervisor/conf.d
+      - ./log/supervisord.log:/var/log/supervisord.log
+    restart: always
+```
+
+
 # 管理页面
 
 地址: `http://ip:9001`
